@@ -38,7 +38,7 @@ It is your responsibility to safeguard your device and ensure its protection aga
 ---
 
 ## 5. Updates to This Policy
-We may update this Privacy Policy from time to time to reflect improvements or changes in the app. The most current version will always be available at [Insert URL].
+We may update this Privacy Policy from time to time to reflect improvements or changes in the app. The most current version will always be available at [https://polmaire.github.io/highercam-privacy/privacy-policy].
 
 ---
 
